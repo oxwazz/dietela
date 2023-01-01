@@ -43,7 +43,6 @@ const props = defineProps({
 })
 
 const color = (score) => {
-  console.log(333444, score)
   let scoreColor = ""
   if (score < 50) {
     scoreColor = 'red'
@@ -54,7 +53,6 @@ const color = (score) => {
   }
   return scoreColor
 };
-console.log(333444, color)
 </script>
 
 <style scoped>
