@@ -1,0 +1,118 @@
+{
+  "status": 200,
+  "error": false,
+  "result": {
+    "username": "John Doe",
+    "gender": "Laki-laki",
+    "age": 27,
+    "email": "user@gmail.com",
+    "is_send": 1,
+    "conditional": [
+      {
+        "card": "Slide 1",
+        "title": "Kondisi Saat Ini",
+        "image": "/assets/images/1.jpeg",
+        "description": "Kondisi kesehatan dan kebugaranmu harus terus menerus di monitor.|Terus lakukan aktivitas fisik/olahraga yang rutin, upayakan pola makan yang bergizi seimbang. Latih fokus dan kemampuan berfikirmu, serta jangan lupa untuk beri makanan untuk jiwamu, dan bersosialisasi yah.|Konsul ke dokter secara rutin dan konsumsi obat sesuai dengan yang dianjurkan doktermu yah."
+      },
+      {
+        "card": "Slide 2",
+        "title": "Kondisi Saat Ini",
+        "image": "/assets/images/2.jpeg",
+        "percentage": [
+          {
+            "label": "Kondisi Personal",
+            "value": "50"
+          },
+          {
+            "label": "Pola Makan Sehat",
+            "value": "90"
+          },
+          {
+            "label": "Level Aktivitas Fisik",
+            "value": "40"
+          },
+          {
+            "label": "Kesiapan Hidup Sehat",
+            "value": "30"
+          },
+          {
+            "label": "Gejala Gangguan Makan (eating disorder)",
+            "value": "20"
+          },
+          {
+            "label": "Pemahaman Gizi dan Hidup Sehat",
+            "value": "100"
+          }
+        ]
+      },
+      {
+        "card": "Slide 3",
+        "title": "Status Gizi",
+        "image": "/assets/images/3.jpeg",
+        "clientName": "Hello asd,",
+        "description": "Klien Dietela yang punya status gizi kayak kamu berhasil mencapai",
+        "status": [
+          {
+            "label": "Status gizi lebih baik",
+            "value": "87.55"
+          },
+          {
+            "label1": "Perubahan sampai",
+            "label2": "berat badan per bulan",
+            "value": "2.1"
+          },
+          {
+            "label": "Lebih aktif bergerak",
+            "value": "53.70"
+          },
+          {
+            "label": "Capai diet lebih sehat",
+            "value": "88.91"
+          },
+          {
+            "label": "lebih banyak makan buah dan sayur",
+            "value": "86.77"
+          }
+        ]
+      },
+      {
+        "card": "Slide 4",
+        "title": "Indeks Massa Tubuh (IMT)",
+        "image": "/assets/images/4.jpeg",
+        "status": {
+          "label": "Obesitas 2",
+          "value": "124"
+        },
+        "description": "Status gizi yang ditandai dengan Indeks Massa Tubuh (IMT) adalah tanda fisik paling awal untuk mengetahui risiko masalah kesehatan dari gizi dan makanan.|IMT normal adalah kondisi yang ideal. ~Pertahankan jika kondisimu sudah normal.~|Jika kamu tergolong dalam Berat Badan Kurang, Pre-Obesitas, Obesitas 1, atau Obesitas 2 artinya kamu perlu melakukan aksi untuk mengurangi kemungkinan munculnya risiko masalah kesehatan akibat status gizi yang belum ideal. ~Bukan selalu untuk memiliki status gizi yang ideal, melainkan untuk mencapai pola makan dan gaya hidup sehat jangka panjang.~"
+      },
+      {
+        "card": "Slide 5",
+        "title": "Pola Makan",
+        "image": "/assets/images/5.jpeg",
+        "description": "Kamu sudah punya pola makan yang sehat.|Pertahankan konsumsi buah dan sayur minimal 4-5 porsi dalam sehari dan konsumsi makanan yang beraneka ragam. Terus batasi konsumsi gorengan, makanan kemasan dan makanan cepat saji.|Pola makan yang seperti ini akan menurunkan risikomu terkena penyakit gaya hidup dan tubuhmu akan lebih sering terasa bugar."
+      },
+      {
+        "card": "Slide 6",
+        "title": "Aktivitas Fisik",
+        "image": "/assets/images/6.jpeg",
+        "description": "Level keaktifanmu masih dibawah rekomendasi untuk pola hidup sehat. Jika terus seperti ini, risikomu terkena penyakit gaya hidup dan risiko terkena masalah jantung akan meningkat.|Yuk, upayakan melakukan gerak aktif minimal 30 menit dalam sehari. BIsa dimulai dari jalan kaki lho :) Lakukan juga gerakan kardio, gerakan penguatan otot, dan gerakan yang melatih kelenturan tubuhmu yah :)|Seimbangkan keaktifan kamu dengan pola makan yang sehat yah. Dengan itu kamu akan memiliki tubuh yang bugar, sehat, dan memiliki risiko yang rendah terhadap penyakit gaya hidup. Kesehatan jantungmu juga akan terus terjaga."
+      },
+      {
+        "card": "Slide 7",
+        "title": "Gejala gangguan makan (eating disorder)",
+        "image": "/assets/images/7.jpeg",
+        "description": "Kamu tidak memiliki masalah \"gangguan makan\" atau \"eating disorder\". |Hanya saja kamu mungkin memiliki masalah dengan makanan dan body image."
+      },
+      {
+        "card": "Slide 8",
+        "title": "Program Untukmu",
+        "image": "/assets/images/8.jpeg",
+        "description": "Berdasarkan kondisi dan kebiasaanmu saat ini, kamu membutuhkan program ~Clinicare Advanced 180 Hari~ untuk dapat mencapai kebiasaan yang sehatmu.|%~Berdasarkan fakta ilmiah:~%|Tahukah kamu, butuh minimal 6 bulan menerapkan kebiasaan sehat untuk mencegah regain dan relapse ke kebiasaan awal.|Motivasi dan support tenaga ahli adalah salah satu faktor terpenting dalam perjalanan sehat kamu (Rigby, Roshan R. et al., 2020).",
+        "programName": "Clinicare Advanced 180 Hari",
+        "journalImage": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/37/52/81/37528134-d3af-e252-c25a-f62b71ba26d3/mza_10902992072386256951.jpg/600x600bb.jpg",
+        "cta": "Daftar Sekarang",
+        "linkCta": "https://dietela.id/clinicare-diet-program/"
+      }
+    ]
+  }
+}
